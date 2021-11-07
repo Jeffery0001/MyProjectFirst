@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="508b0316-b8b9-4e3c-afbc-d0c47b0bc412" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/jeffery/kotlin/Hello.kt" afterDir="false" />
-    </list>
+    <list default="true" id="508b0316-b8b9-4e3c-afbc-d0c47b0bc412" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,13 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jeffery0001 &lt;chen.a905420@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="20ZsanR7OW8EpTbBESSeYyHITOZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -76,6 +80,14 @@
       <option name="presentableId" value="Default" />
       <updated>1636263510878</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1636271101657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636271101657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
